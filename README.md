@@ -16,7 +16,7 @@ Este projeto consiste na análise de dados de vendas utilizando **Power BI, Exce
 
 ## 📂 Arquivos no Repositório
 - **dados_vendas.xlsx** → Arquivo com os dados utilizados
-- **dashboard.pbix** → Arquivo do Power BI com o relatório final
+
 
 
 ## 🏆 Resultado Final
